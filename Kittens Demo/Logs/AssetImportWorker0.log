@@ -9300,3 +9300,11 @@ Received Import Request.
 Start importing Assets/materials/glass.mat using Guid(0222e8c4de9684bdfb51c1cf4fd6e290) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bb369024ddf80ff6b35ff166d7aa1c2c') in 0.014077125 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 23
 
+========================================================================
+Received Import Request.
+  Time since last request: 1219.389756 seconds.
+  path: Assets/materials/glass.mat
+  artifactKey: Guid(0222e8c4de9684bdfb51c1cf4fd6e290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/glass.mat using Guid(0222e8c4de9684bdfb51c1cf4fd6e290) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cdbc2800789492379bff557f18d82716') in 0.047399792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 23
+
