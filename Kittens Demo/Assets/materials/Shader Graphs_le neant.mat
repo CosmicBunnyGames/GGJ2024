@@ -57,6 +57,6 @@ Material:
     - _distance: 0.68
     - _fade: 0.86
     m_Colors:
-    - _Color: {r: 0.2509804, g: 0.5241685, b: 0.6901961, a: 1}
+    - _Color: {r: 0.62692535, g: 0.6901961, b: 0.2509804, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

@@ -211,3 +211,136 @@ Received Import Request.
 Start importing Assets/materials/door 1.mat using Guid(3af0736b860b44bd9ba1a80765e12777) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2afec4be37b8e61ced75545a8577e3c8') in 0.251154333 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 36
 
+========================================================================
+Received Import Request.
+  Time since last request: 5199.746364 seconds.
+  path: Assets/models/ferns.fbx
+  artifactKey: Guid(71a82229cc8004e4ead50a8411e6294c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/models/ferns.fbx using Guid(71a82229cc8004e4ead50a8411e6294c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eb4ea13dbede79bcee3b5fc4fe6775d4') in 0.084560375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.361801 seconds.
+  path: Assets/materials/Shader Graphs_le neant.mat
+  artifactKey: Guid(f6f32ee7b129c40c1abb3482bda3bbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/Shader Graphs_le neant.mat using Guid(f6f32ee7b129c40c1abb3482bda3bbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c47dcd77547422cb9d024759cb809774') in 0.885779917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 27
+
+========================================================================
+Received Import Request.
+  Time since last request: 178.141648 seconds.
+  path: Assets/models/ferns.fbx
+  artifactKey: Guid(71a82229cc8004e4ead50a8411e6294c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/models/ferns.fbx using Guid(71a82229cc8004e4ead50a8411e6294c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '41cc2af7e0662ccd7eb5c68386d49cf0') in 0.023788625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 31
+
+========================================================================
+Received Import Request.
+  Time since last request: 643.279271 seconds.
+  path: Assets/materials/fern.mat
+  artifactKey: Guid(8a95af559499148c085ca3edb36f8251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/fern.mat using Guid(8a95af559499148c085ca3edb36f8251) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)Metal: Error creating pipeline state (Universal Render Pipeline/Lit): Fragment input(s) `user(TEXCOORD1)` mismatching vertex shader output type(s) or not written by vertex shader
+(null)
+ -> (artifact id: 'f5fd0febc8b7c797b0966bcd2054179b') in 0.048023792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/materials/roof.mat
+  artifactKey: Guid(9333e934fa6b043c998d365525ca164b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/roof.mat using Guid(9333e934fa6b043c998d365525ca164b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '332d55efefa2c7d68e97eec3a61c2f60') in 0.011211583 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 1449.806997 seconds.
+  path: Assets/models/cobble tile.fbx
+  artifactKey: Guid(af7420a6cb4d94fcba631f139a0d4a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/models/cobble tile.fbx using Guid(af7420a6cb4d94fcba631f139a0d4a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f1fcb5e5edc227295908f7ae095b431d') in 0.041730791 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/models/stone tile.fbx
+  artifactKey: Guid(0769f67c1e6b7496a8627e565177f0d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/models/stone tile.fbx using Guid(0769f67c1e6b7496a8627e565177f0d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5c17c98278820e1969e82addfcaaafb9') in 0.021013667 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/models/ferns.fbx
+  artifactKey: Guid(71a82229cc8004e4ead50a8411e6294c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/models/ferns.fbx using Guid(71a82229cc8004e4ead50a8411e6294c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '772f31b37ea447bc93a2c2f3a4e88c0c') in 0.017909208 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 31
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/models/planks tile.fbx
+  artifactKey: Guid(8e7e770c06a2e4ccd9183e94bc1242ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/models/planks tile.fbx using Guid(8e7e770c06a2e4ccd9183e94bc1242ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2ae9be23618076c099fb829fd5844227') in 0.016732 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/models/house.fbx
+  artifactKey: Guid(94d5b663465db4937a975e149055ae8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/models/house.fbx using Guid(94d5b663465db4937a975e149055ae8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1c416c09fecf89c75a260094257aa45e') in 0.493991583 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 436
+
+========================================================================
+Received Import Request.
+  Time since last request: 270.997440 seconds.
+  path: Assets/models/planks tile.fbx
+  artifactKey: Guid(8e7e770c06a2e4ccd9183e94bc1242ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/models/planks tile.fbx using Guid(8e7e770c06a2e4ccd9183e94bc1242ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8845ea55d59d22fb6bf8a9fb7aed57fd') in 0.0384425 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 31
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.069151 seconds.
+  path: Assets/materials/planks.mat
+  artifactKey: Guid(ba0deb9e8281e416a94c15c8ddcec0a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/planks.mat using Guid(ba0deb9e8281e416a94c15c8ddcec0a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b6e4582b170e5f092d8f9da1c7b40ac3') in 0.010911709 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.885553 seconds.
+  path: Assets/models/planks tile.fbx
+  artifactKey: Guid(8e7e770c06a2e4ccd9183e94bc1242ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/models/planks tile.fbx using Guid(8e7e770c06a2e4ccd9183e94bc1242ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '130ab56b94ef698afb98e7a7d92e794a') in 0.013788083 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 31
+
+========================================================================
+Received Import Request.
+  Time since last request: 133.059273 seconds.
+  path: Assets/textures/tile_planks.png
+  artifactKey: Guid(c7494e157fb6248a99e5a9eeba598a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures/tile_planks.png using Guid(c7494e157fb6248a99e5a9eeba598a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.040293041 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/textures/tile_planks.png in SourceAssetDB has modification time of '2024-01-27T02:09:34Z' while content on disk has modification time of '2024-01-27T02:09:55Z'
+  ERROR: Build asset version error: assets/textures/tile_planks.png in SourceAssetDB has modification time of '2024-01-27T02:09:34Z' while content on disk has modification time of '2024-01-27T02:09:55Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.664411 seconds.
+  path: Assets/models/planks tile.fbx
+  artifactKey: Guid(8e7e770c06a2e4ccd9183e94bc1242ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/models/planks tile.fbx using Guid(8e7e770c06a2e4ccd9183e94bc1242ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6660e73d6b5b3636fee86a3b1747928a') in 0.022553917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 31
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.039124 seconds.
+  path: Assets/textures/tile_planks.png
+  artifactKey: Guid(c7494e157fb6248a99e5a9eeba598a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures/tile_planks.png using Guid(c7494e157fb6248a99e5a9eeba598a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '51b597ea7e82b7e3987b7ae6cad61d74') in 0.008771875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
