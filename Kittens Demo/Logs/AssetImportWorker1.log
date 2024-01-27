@@ -488,3 +488,35 @@ Received Import Request.
 Start importing Assets/modular pieces/woodbeam (1).prefab using Guid(6c2af3107d1074782bdfb3ea931de3ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7c10f91c57dc271e872043c750602107') in 0.00718775 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 39
 
+========================================================================
+Received Import Request.
+  Time since last request: 4963.334756 seconds.
+  path: Assets/models/stone window.fbx
+  artifactKey: Guid(186e3f06fa99144078d530ca49e2a085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/models/stone window.fbx using Guid(186e3f06fa99144078d530ca49e2a085) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '70a1c5237feb41e0394a70cb4b59e019') in 0.068952833 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 32
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.956613 seconds.
+  path: Assets/Free Stylized Skybox/Panoramic/Materials/Sky_Anime_03_Day_a.mat
+  artifactKey: Guid(6bfab16f387f95e4bb60f866299be241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Stylized Skybox/Panoramic/Materials/Sky_Anime_03_Day_a.mat using Guid(6bfab16f387f95e4bb60f866299be241) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6524a9855195363caeffab64a55bc703') in 0.389358667 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 23
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Free Stylized Skybox/Panoramic/Materials/Sky_Anime_11_morning_a.mat
+  artifactKey: Guid(3f698c5d47507d54db2dcb930054532e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Stylized Skybox/Panoramic/Materials/Sky_Anime_11_morning_a.mat using Guid(3f698c5d47507d54db2dcb930054532e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8153d9a2413cadc841e90e6dde79729f') in 0.151921 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Free Stylized Skybox/Panoramic/Materials/Sky_LowPoly_02_Night_a.mat
+  artifactKey: Guid(aa87107d0c3535c4983a4edb2d0e9f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Stylized Skybox/Panoramic/Materials/Sky_LowPoly_02_Night_a.mat using Guid(aa87107d0c3535c4983a4edb2d0e9f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '58714f9f81f4b83d2a94483f97cf4209') in 0.108226875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+

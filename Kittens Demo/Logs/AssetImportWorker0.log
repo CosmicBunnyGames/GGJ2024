@@ -9148,3 +9148,83 @@ Received Import Request.
 Start importing Assets/modular pieces/pillar_base.prefab using Guid(34bcce660262a4781a706d37c985d16b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b1a3c6e69b3a1c8ad8aec9aa152b34a3') in 0.009359334 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 39
 
+========================================================================
+Received Import Request.
+  Time since last request: 4963.332597 seconds.
+  path: Assets/models/banana cat.fbx
+  artifactKey: Guid(8047c2e2c910740c196903092a908796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/models/banana cat.fbx using Guid(8047c2e2c910740c196903092a908796) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '84cb759c8f8ca74822edc3769eb28853') in 0.05949325 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.962687 seconds.
+  path: Assets/materials/le neant.shadergraph
+  artifactKey: Guid(582a8290640a7493287e010a5303dad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/le neant.shadergraph using Guid(582a8290640a7493287e010a5303dad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '561cf7199811d26a8b7f75ae413cc7b5') in 0.020333583 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Free Stylized Skybox/Panoramic/Materials/Sky_Anime_15_Day_a.mat
+  artifactKey: Guid(d04fa9ef91692c6429efccdf42970c46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Stylized Skybox/Panoramic/Materials/Sky_Anime_15_Day_a.mat using Guid(d04fa9ef91692c6429efccdf42970c46) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bafa07f626fd132240a22bf4d3da428d') in 0.451471958 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Free Stylized Skybox/Panoramic/Materials/Sky_Anime_18_day_a.mat
+  artifactKey: Guid(f9ec1c0318dcc3149b0e9ae62a6d8cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Stylized Skybox/Panoramic/Materials/Sky_Anime_18_day_a.mat using Guid(f9ec1c0318dcc3149b0e9ae62a6d8cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8564ae549b8115eb9210e3ddd16307a0') in 0.13517675 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Free Stylized Skybox/Panoramic/Materials/Sky_LowPoly_01_Day_a.mat
+  artifactKey: Guid(6abe918ee1229b34f8557fc2a5a39825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Stylized Skybox/Panoramic/Materials/Sky_LowPoly_01_Day_a.mat using Guid(6abe918ee1229b34f8557fc2a5a39825) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '838b5429351ec3177cbc1fbf712360f1') in 0.075942 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.466204 seconds.
+  path: Assets/models/stone window.fbx
+  artifactKey: Guid(186e3f06fa99144078d530ca49e2a085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/models/stone window.fbx using Guid(186e3f06fa99144078d530ca49e2a085) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '68738049f9f4f9a8d9ce178b282a4778') in 0.024322125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.066242 seconds.
+  path: Assets/materials/glass.mat
+  artifactKey: Guid(0222e8c4de9684bdfb51c1cf4fd6e290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/glass.mat using Guid(0222e8c4de9684bdfb51c1cf4fd6e290) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1d93b8b286c42903d2b77721331757fe') in 0.015529875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 23
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.755820 seconds.
+  path: Assets/models/stone window.fbx
+  artifactKey: Guid(186e3f06fa99144078d530ca49e2a085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/models/stone window.fbx using Guid(186e3f06fa99144078d530ca49e2a085) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fd57828994f7c41d49028a817510078d') in 0.017671666 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.083139 seconds.
+  path: Assets/models/stone window.fbx
+  artifactKey: Guid(186e3f06fa99144078d530ca49e2a085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/models/stone window.fbx using Guid(186e3f06fa99144078d530ca49e2a085) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bedd0ca1bc777878b665a76e6ead9b8e') in 0.017056542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.126219 seconds.
+  path: Assets/modular pieces/stone window.prefab
+  artifactKey: Guid(8ac4dd0e3a2bb44b38988884ab8a5dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular pieces/stone window.prefab using Guid(8ac4dd0e3a2bb44b38988884ab8a5dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '08898969c429b8fec071bc61a95c88ea') in 0.010223125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 42
+
