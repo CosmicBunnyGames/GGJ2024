@@ -54,8 +54,8 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _distance: 0.64
-    - _fade: 3.07
+    - _distance: 0.623
+    - _fade: 1.73
     m_Colors:
     - _Color: {r: 0.62692535, g: 0.6901961, b: 0.2509804, a: 1}
   m_BuildTextureStacks: []

@@ -6,11 +6,15 @@ public class Joint_On_Contact : MonoBehaviour
 {
 
     private int temp = 0;
+    public float breakforce;
+    public float breaktorque;
+    public float jointradius;
+
     // Start is called before the first frame update
     void Start()
     {
         Vector3 explosionPos = transform.position;
-        Collider[] colliders = Physics.OverlapSphere(explosionPos, 2.0f);
+        Collider[] colliders = Physics.OverlapSphere(explosionPos, jointradius);
         foreach (Collider hit in colliders)
         {
             Rigidbody rb = hit.GetComponent<Rigidbody>();
@@ -27,8 +31,8 @@ public class Joint_On_Contact : MonoBehaviour
         }
         foreach (FixedJoint joint in FixedJoints)
         {
-            joint.breakForce = 100f;
-            joint.breakTorque = 300f;
+            joint.breakForce = breakforce;
+            joint.breakTorque = breaktorque;
             if(joint.connectedBody==null){
                 joint.breakForce = 0.01f;
                 joint.breakTorque = 0.01f;
