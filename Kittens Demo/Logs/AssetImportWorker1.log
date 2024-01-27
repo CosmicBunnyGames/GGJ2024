@@ -344,3 +344,147 @@ Received Import Request.
 Start importing Assets/textures/tile_planks.png using Guid(c7494e157fb6248a99e5a9eeba598a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '51b597ea7e82b7e3987b7ae6cad61d74') in 0.008771875 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
 
+========================================================================
+Received Import Request.
+  Time since last request: 1033.584474 seconds.
+  path: Assets/models/planks tile.fbx
+  artifactKey: Guid(8e7e770c06a2e4ccd9183e94bc1242ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/models/planks tile.fbx using Guid(8e7e770c06a2e4ccd9183e94bc1242ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5aa6f370817ac7eaf4f772e785885a52') in 0.033604583 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 31
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.478441 seconds.
+  path: Assets/materials/planks.mat
+  artifactKey: Guid(ba0deb9e8281e416a94c15c8ddcec0a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/planks.mat using Guid(ba0deb9e8281e416a94c15c8ddcec0a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '66be6100cb449f2e36441f9262f73374') in 0.017951875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/materials/Shader Graphs_le neant.mat
+  artifactKey: Guid(f6f32ee7b129c40c1abb3482bda3bbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/Shader Graphs_le neant.mat using Guid(f6f32ee7b129c40c1abb3482bda3bbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5a0ad905a5dde2daa80cbd4bd5adf627') in 0.846782542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 27
+
+========================================================================
+Received Import Request.
+  Time since last request: 98.829322 seconds.
+  path: Assets/models/rooftile.fbx
+  artifactKey: Guid(e9bf4ed1280944b63bd288642f0e80f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/models/rooftile.fbx using Guid(e9bf4ed1280944b63bd288642f0e80f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e20a5be76214e481fb3f448beaba8b58') in 0.022650416 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/models/woodbeam.fbx
+  artifactKey: Guid(7fb8a611a02b74723b4cfdc6782b5f64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/models/woodbeam.fbx using Guid(7fb8a611a02b74723b4cfdc6782b5f64) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0778f4c48474d7ebe9529a2842d14ffe') in 0.010845916 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 31
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/models/woodstick.fbx
+  artifactKey: Guid(36da84306818e4264ad82bf236fa3af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/models/woodstick.fbx using Guid(36da84306818e4264ad82bf236fa3af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cb8c445720040afd17f541c63f32b2d1') in 0.0120795 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 31
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/models/treestump.fbx
+  artifactKey: Guid(92ef32d67808944eb9702b8a68d1e089) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/models/treestump.fbx using Guid(92ef32d67808944eb9702b8a68d1e089) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '599301327e9d623e2879d2f7552d4552') in 0.017752291 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 31
+
+========================================================================
+Received Import Request.
+  Time since last request: 1214.511721 seconds.
+  path: Assets/models/pillar.fbx
+  artifactKey: Guid(f45e544c0eae94670af73f97d8c2f648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/models/pillar.fbx using Guid(f45e544c0eae94670af73f97d8c2f648) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c2c6f03b641619e064dc4c3566b839db') in 0.051674542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/models/plank_pane.fbx
+  artifactKey: Guid(f7d925d4756604196a445e9e20ad76d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/models/plank_pane.fbx using Guid(f7d925d4756604196a445e9e20ad76d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e85dc894b4c692c8bc8314041ac582f9') in 0.024140458 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 495.541922 seconds.
+  path: Assets/Free Stylized Skybox/CubeMap/Materials/Sky_Anime_11_morning_a.mat
+  artifactKey: Guid(8162517b6ec2309499f99e303b29f146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Stylized Skybox/CubeMap/Materials/Sky_Anime_11_morning_a.mat using Guid(8162517b6ec2309499f99e303b29f146) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ffa576281867e885f14f7aaaa8474863') in 0.266791667 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 23
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Free Stylized Skybox/CubeMap/Materials/Sky_Anime_18_day_a.mat
+  artifactKey: Guid(b2f1a98efccfb644f8e084200a249527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Stylized Skybox/CubeMap/Materials/Sky_Anime_18_day_a.mat using Guid(b2f1a98efccfb644f8e084200a249527) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c71adcdb8ec6c40ecf6889235433d948') in 0.125057458 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 23
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Free Stylized Skybox/CubeMap/Materials/Sky_LowPoly_01_Day_a.mat
+  artifactKey: Guid(133347283e115d147a5fcce7f47a538f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Stylized Skybox/CubeMap/Materials/Sky_LowPoly_01_Day_a.mat using Guid(133347283e115d147a5fcce7f47a538f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd58881e9bdeaa009ad30200d71d06ac5') in 0.078812417 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 23
+
+========================================================================
+Received Import Request.
+  Time since last request: 1381.384326 seconds.
+  path: Assets/modular pieces/door.prefab
+  artifactKey: Guid(64fead469a8ad4d4eb1acf75b379dc3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular pieces/door.prefab using Guid(64fead469a8ad4d4eb1acf75b379dc3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd8d07b65ebf765a4422742163b0ae6c1') in 0.0381155 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 39
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/modular pieces/Palissade.prefab
+  artifactKey: Guid(6492f4891bcbe4731a8fb416a4040c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular pieces/Palissade.prefab using Guid(6492f4891bcbe4731a8fb416a4040c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b1ed04347ce45e0751ff78b82b617d1c') in 0.009244792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 39
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/modular pieces/pillar.prefab
+  artifactKey: Guid(2ce06a17d2e16411f992679d50ab12fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular pieces/pillar.prefab using Guid(2ce06a17d2e16411f992679d50ab12fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a5b7603e7afc677217e14e9177fc8f09') in 0.012430083 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 39
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/modular pieces/treestump.prefab
+  artifactKey: Guid(2df14651db5344fc798fb5bf18cad80f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular pieces/treestump.prefab using Guid(2df14651db5344fc798fb5bf18cad80f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '342fb9dbef263867586b60da0be67aa2') in 0.00893225 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 39
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/modular pieces/woodstick.prefab
+  artifactKey: Guid(c3eab2282378442fc8e99e2041f8c174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular pieces/woodstick.prefab using Guid(c3eab2282378442fc8e99e2041f8c174) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a5ad5dd039da93877b8092b847a2235a') in 0.007823125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 39
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/modular pieces/woodbeam (1).prefab
+  artifactKey: Guid(6c2af3107d1074782bdfb3ea931de3ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular pieces/woodbeam (1).prefab using Guid(6c2af3107d1074782bdfb3ea931de3ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7c10f91c57dc271e872043c750602107') in 0.00718775 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 39
+
