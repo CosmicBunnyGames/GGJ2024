@@ -379,3 +379,189 @@ Received Import Request.
 Start importing Assets/modular pieces/p_woodstick.prefab using Guid(c3eab2282378442fc8e99e2041f8c174) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cc5920a473e4f46ed26ba70ca4fbd78a') in 0.007726709 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 39
 
+========================================================================
+Received Import Request.
+  Time since last request: 956.070253 seconds.
+  path: Assets/scripts
+  artifactKey: Guid(381c52d38981a4270a494684fda1a33d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts using Guid(381c52d38981a4270a494684fda1a33d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '710ba16f22b57ec7282f6ede040b1908') in 0.000520542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5197 unused Assets / (4.7 MB). Loaded Objects now: 5996.
+Memory consumption went from 148.3 MB to 143.6 MB.
+Total: 7.710125 ms (FindLiveObjects: 0.342375 ms CreateObjectMapping: 0.187208 ms MarkObjects: 5.300083 ms  DeleteObjects: 1.879708 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 23.200203 seconds.
+  path: Assets/scripts/Explosive.cs
+  artifactKey: Guid(6225485a7e80642878c223c2a44d2167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/Explosive.cs using Guid(6225485a7e80642878c223c2a44d2167) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e30f1ce0a49f0177e29855352998c3e9') in 0.0003275 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x17fb07000 may have been prematurely finalized
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image /Users/eloigenier/Documents/kittensmitten/GGJ2024/Kittens Demo/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/eloigenier/Documents/kittensmitten/GGJ2024/Kittens Demo/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.470 seconds
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.646 seconds
+Domain Reload Profiling: 1118ms
+	BeginReloadAssembly (139ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (10ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (61ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (18ms)
+	LoadAllAssembliesAndSetupDomain (270ms)
+		LoadAssemblies (178ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (127ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (107ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (646ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (462ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (37ms)
+			ProcessInitializeOnLoadAttributes (396ms)
+			ProcessInitializeOnLoadMethodAttributes (24ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 0.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 38 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5198 unused Assets / (4.3 MB). Loaded Objects now: 5934.
+Memory consumption went from 168.2 MB to 163.9 MB.
+Total: 6.264750 ms (FindLiveObjects: 0.350083 ms CreateObjectMapping: 0.170709 ms MarkObjects: 4.186875 ms  DeleteObjects: 1.556334 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 53.801099 seconds.
+  path: Assets/scripts/Explosive.cs
+  artifactKey: Guid(6225485a7e80642878c223c2a44d2167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/Explosive.cs using Guid(6225485a7e80642878c223c2a44d2167) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b4aef3b7fca28bbd7036eaf545d9d54d') in 0.001290042 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 25 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5194 unused Assets / (4.1 MB). Loaded Objects now: 5935.
+Memory consumption went from 156.2 MB to 152.0 MB.
+Total: 6.133167 ms (FindLiveObjects: 0.356541 ms CreateObjectMapping: 0.265625 ms MarkObjects: 3.912709 ms  DeleteObjects: 1.597833 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 64.511940 seconds.
+  path: Assets/scripts/Script Test.cs
+  artifactKey: Guid(682f7d7e41a384056810baf2bc18ea49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/Script Test.cs using Guid(682f7d7e41a384056810baf2bc18ea49) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8cc140419c0a7b27f88bc6411710f957') in 0.000541792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x17fb07000 may have been prematurely finalized
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image /Users/eloigenier/Documents/kittensmitten/GGJ2024/Kittens Demo/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/eloigenier/Documents/kittensmitten/GGJ2024/Kittens Demo/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.454 seconds
+Refreshing native plugins compatible for Editor in 0.20 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.603 seconds
+Domain Reload Profiling: 1059ms
+	BeginReloadAssembly (117ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (50ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (16ms)
+	LoadAllAssembliesAndSetupDomain (275ms)
+		LoadAssemblies (179ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (130ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (111ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (603ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (440ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (37ms)
+			ProcessInitializeOnLoadAttributes (375ms)
+			ProcessInitializeOnLoadMethodAttributes (24ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Refreshing native plugins compatible for Editor in 0.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 25 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5199 unused Assets / (4.1 MB). Loaded Objects now: 5935.
+Memory consumption went from 166.8 MB to 162.8 MB.
+Total: 5.701166 ms (FindLiveObjects: 0.307875 ms CreateObjectMapping: 0.171500 ms MarkObjects: 3.965292 ms  DeleteObjects: 1.255625 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 5.020260 seconds.
+  path: Assets/scripts/Script Test.cs
+  artifactKey: Guid(682f7d7e41a384056810baf2bc18ea49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/Script Test.cs using Guid(682f7d7e41a384056810baf2bc18ea49) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '281304dde63697f394a87f3ff712384e') in 0.001295125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
