@@ -79,6 +79,10 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: -5800201757150701180}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 8abd1e37eff0c4c4b8c49bf45fd9a17c,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -8451995499256448313}
   m_SourcePrefab: {fileID: 100100000, guid: 8abd1e37eff0c4c4b8c49bf45fd9a17c, type: 3}
 --- !u!1 &2294225321397524852 stripped
 GameObject:
@@ -150,3 +154,17 @@ MonoBehaviour:
   breakforce: 1000
   breaktorque: 3000
   jointradius: 2
+--- !u!114 &-8451995499256448313
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2294225321397524852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8135be6a9ca51241a6310c82f2e5f31, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  total_Displacement: {fileID: 0}
+  scoreAdd: 0
