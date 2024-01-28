@@ -11,8 +11,8 @@ public class Fire_Cannonball : MonoBehaviour
     {
         // Instantiate at cannon position and zero rotation.
 
-        GameObject Projectile = Instantiate(cannonball, transform.position, Quaternion.identity);
-        Projectile.GetComponent<Rigidbody>().velocity = transform.forward * Firing_Force;
+        GameObject Projectile = Instantiate(cannonball, transform.position + transform.up*-1.7f, Quaternion.identity);
+        Projectile.GetComponent<Rigidbody>().velocity = transform.up*-1 * Firing_Force;
     }
 
 }

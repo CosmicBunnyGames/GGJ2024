@@ -561,8 +561,8 @@
     <Compile Include="Library\PackageCache\com.unity.shadergraph@16.0.5\Editor\Data\Graphs\ColorMaterialSlot.cs" />
     <Compile Include="Library\PackageCache\com.unity.shadergraph@16.0.5\Editor\Data\Interfaces\IMayRequireFaceSign.cs" />
     <Compile Include="Library\PackageCache\com.unity.shadergraph@16.0.5\Editor\Generation\Targets\BuiltIn\Editor\ShaderGraph\AssetCallbacks\CreateUnlitShaderGraph.cs" />
-    <Compile Include="Library\PackageCache\com.unity.shadergraph@16.0.5\Editor\Drawing\SearchWindowProvider.cs" />
     <Compile Include="Library\PackageCache\com.unity.shadergraph@16.0.5\Editor\Drawing\Inspector\InspectorView.cs" />
+    <Compile Include="Library\PackageCache\com.unity.shadergraph@16.0.5\Editor\Drawing\SearchWindowProvider.cs" />
     <Compile Include="Library\PackageCache\com.unity.shadergraph@16.0.5\Editor\Drawing\Views\ShaderGroup.cs" />
     <Compile Include="Library\PackageCache\com.unity.shadergraph@16.0.5\Editor\Data\Nodes\Input\Matrix\Matrix3Node.cs" />
     <Compile Include="Library\PackageCache\com.unity.shadergraph@16.0.5\Editor\Data\Nodes\Artistic\Mask\ColorMaskNode.cs" />
@@ -634,8 +634,8 @@
     <Compile Include="Library\PackageCache\com.unity.shadergraph@16.0.5\Editor\Data\Nodes\Input\Basic\IntegerNode.cs" />
     <Compile Include="Library\PackageCache\com.unity.shadergraph@16.0.5\Editor\Data\Nodes\UV\RotateNode.cs" />
     <Compile Include="Library\PackageCache\com.unity.shadergraph@16.0.5\Editor\Data\Nodes\ShaderStage.cs" />
-    <Compile Include="Library\PackageCache\com.unity.shadergraph@16.0.5\Editor\Data\Graphs\BooleanShaderProperty.cs" />
     <Compile Include="Library\PackageCache\com.unity.shadergraph@16.0.5\Editor\Data\Nodes\Procedural\Shape\PolygonNode.cs" />
+    <Compile Include="Library\PackageCache\com.unity.shadergraph@16.0.5\Editor\Data\Graphs\BooleanShaderProperty.cs" />
     <Compile Include="Library\PackageCache\com.unity.shadergraph@16.0.5\Editor\Data\Nodes\Input\Gradient\SampleGradientNode.cs" />
     <Compile Include="Library\PackageCache\com.unity.shadergraph@16.0.5\Editor\Generation\Targets\Fullscreen\FullscreenMetaData.cs" />
     <Compile Include="Library\PackageCache\com.unity.shadergraph@16.0.5\Editor\Data\Util\FunctionRegistry.cs" />

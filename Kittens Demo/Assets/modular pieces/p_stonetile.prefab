@@ -119,7 +119,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6318996521294426249}
   serializedVersion: 4
-  m_Mass: 1
+  m_Mass: 4
   m_Drag: 0
   m_AngularDrag: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
@@ -150,8 +150,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d4cacf5fc292ad4458b978a2732848c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  breakforce: 100
-  breaktorque: 100
+  breakforce: 800
+  breaktorque: 400
   jointradius: 2
 --- !u!82 &8431495066859860247
 AudioSource:
