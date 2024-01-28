@@ -4,6 +4,10 @@ using UnityEngine;
 
 public class Cannonball : MonoBehaviour
 {
+    void Update(){
+        transform.LookAt(transform.GetComponent<Rigidbody>().velocity);
+        transform.GetComponent<Rigidbody>().AddForce(transform.forward*100f);
+    }
     void OnCollisionEnter(Collision collision)
     {
 
