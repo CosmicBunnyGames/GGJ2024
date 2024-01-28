@@ -150,6 +150,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d4cacf5fc292ad4458b978a2732848c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  breakforce: 100
+  breaktorque: 100
+  jointradius: 2
 --- !u!82 &8431495066859860247
 AudioSource:
   m_ObjectHideFlags: 0

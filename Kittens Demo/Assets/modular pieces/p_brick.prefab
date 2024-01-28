@@ -147,3 +147,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d4cacf5fc292ad4458b978a2732848c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  breakforce: 30
+  breaktorque: 5
+  jointradius: 1
