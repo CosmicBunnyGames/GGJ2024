@@ -112,6 +112,7 @@
     <Compile Include="Assets\scripts\Cannonball.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
     <Compile Include="Assets\scripts\Explosive.cs" />
+    <Compile Include="Assets\scripts\SpawnAnvil.cs" />
     <Compile Include="Assets\scripts\Fire_Cannonball.cs" />
     <Compile Include="Assets\scripts\ContactNoise.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />

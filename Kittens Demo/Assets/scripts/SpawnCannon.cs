@@ -36,6 +36,6 @@ public class SpawnCannon : MonoBehaviour
 
      void MyAction()
     {
-        GameObject gameObject1 = Instantiate(cannon, transform.position + Vector3.forward*3f, transform.rotation);
+        GameObject gameObject1 = Instantiate(cannon, transform.position + Vector3.forward*3f, Quaternion.AngleAxis(90, Vector3.left));
     }
 }

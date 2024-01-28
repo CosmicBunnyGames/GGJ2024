@@ -9,15 +9,14 @@ public class ContactNoise : MonoBehaviour
     void Start()
     {
         aud= GetComponent<AudioSource>();
-        aud.pitch = 10f;
     }
 
    
     private void OnCollisionEnter(Collision collision)
     {
-        if (collision.relativeVelocity.magnitude > 3)
+        if (collision.relativeVelocity.magnitude > 10)
         {
-            aud.volume = collision.relativeVelocity.magnitude / 50;
+            aud.volume = collision.relativeVelocity.magnitude / 130;
             aud.Play();
         }
     } 
