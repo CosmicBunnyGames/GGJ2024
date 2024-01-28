@@ -5,7 +5,7 @@ using UnityEngine;
 public class Total_Displacement : MonoBehaviour
 {
     public int Displacement_Total = 0;
-    public int Displacement_Max;
+    public int Displacement_Max = 0;
     public int Level_Pass;
     // Start is called before the first frame update
     void Start()
