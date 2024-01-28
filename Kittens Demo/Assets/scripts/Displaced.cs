@@ -16,6 +16,7 @@ public class Displaced : MonoBehaviour
     {
         startPos = gameObject.transform.position;
         isDisplaced = false;
+        total_Displacement.Displacement_Max=total_Displacement.Displacement_Max+1;
     }
 
     // Update is called once per frame
@@ -26,7 +27,7 @@ public class Displaced : MonoBehaviour
             if (Vector3.Distance(startPos, gameObject.transform.position) > displacementLimit)
             {
                 isDisplaced = true;
-                total_Displacement.Displacement_Total = total_Displacement.Displacement_Total+scoreAdd;
+                total_Displacement.Displacement_Total = total_Displacement.Displacement_Total + 1; 
             }
         }
     }
