@@ -1,6 +1,7 @@
 # Ignore Mac system files
 .DS_store
 Kittens Demo/Temp
+Kittens Demo/Logs
 
 # Ignore the libraries and packages
 Kittens Demo/Library

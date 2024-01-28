@@ -7642,3 +7642,11 @@ Memory consumption went from 176.3 MB to 171.6 MB.
 Total: 6.690125 ms (FindLiveObjects: 0.301875 ms CreateObjectMapping: 0.168000 ms MarkObjects: 4.321416 ms  DeleteObjects: 1.898458 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 3527.769550 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '216cdca2261393bfdbe5332c0fcae83f') in 0.006885583 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
