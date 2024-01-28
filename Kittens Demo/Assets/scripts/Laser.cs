@@ -25,7 +25,7 @@ public class Laser : MonoBehaviour
         {
             Rigidbody rb = hit.GetComponent<Rigidbody>();
             if (rb != null)
-                rb.AddExplosionForce(2000.0f, explosionPos, 1f, 3000f);
+                rb.AddExplosionForce(2000.0f, explosionPos, 2f, 3000f);
         }
 
     }
