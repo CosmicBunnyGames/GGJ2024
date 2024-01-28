@@ -25,6 +25,7 @@ public class SpawnUFO : MonoBehaviour
     }
      void MyAction()
     {
+        Debug.Log("Do Stuff");
         GameObject gameObject1 = Instantiate(UFO, transform.position + Vector3.up * 30f, transform.rotation);
     }
 }

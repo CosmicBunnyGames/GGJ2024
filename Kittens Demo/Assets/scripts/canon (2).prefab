@@ -132,4 +132,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cannonball: {fileID: 7255948662207069014, guid: 1839901a9bf20864f881804c060d1a57,
     type: 3}
-  Firing_Force: 40
+  Firing_Force: 100
