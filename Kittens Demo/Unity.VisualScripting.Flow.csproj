@@ -396,9 +396,9 @@
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Framework\Time\WaitForNextFrameUnit.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Framework\Events\Physics\OnControllerColliderHit.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Framework\Math\Vector3\Vector3CrossProduct.cs" />
-    <Compile Include="Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Ports\IUnitInputPort.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Framework\Formula.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Framework\Math\Generic\GenericMultiply.cs" />
+    <Compile Include="Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Ports\IUnitInputPort.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Framework\Math\Vector3\Vector3Average.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Framework\Time\Cooldown.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Framework\Math\Minimum.cs" />
@@ -465,8 +465,8 @@
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\FlowGraphData.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Dependencies\NCalc\Expression.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Framework\Codebase\MemberUnit.cs" />
-    <Compile Include="Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Framework\Events\Lifecycle\Start.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Framework\Events\ManualEventUnit.cs" />
+    <Compile Include="Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Framework\Events\Lifecycle\Start.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll" />
