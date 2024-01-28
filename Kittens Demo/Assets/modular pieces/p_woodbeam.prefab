@@ -148,5 +148,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   breakforce: 400
-  breaktorque: 400
+  breaktorque: 2000
   jointradius: 4
