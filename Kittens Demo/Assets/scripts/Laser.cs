@@ -4,22 +4,28 @@ using UnityEngine;
 
 public class Laser : MonoBehaviour
 {
+    RaycastHit hit;
     // Start is called before the first frame update
     void Start()
     {
-     
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        Vector3 explosionPos = transform.position;
+        if (Physics.Raycast(transform.position, transform.TransformDirection(Vector3.forward), out hit, Mathf.Infinity))
+        {
+            Debug.DrawRay(transform.position, transform.TransformDirection(Vector3.forward) * hit.distance, Color.yellow);
+
+        }
+        Vector3 explosionPos = hit.point;
         Collider[] colliders = Physics.OverlapSphere(explosionPos, 4.0f);
         foreach (Collider hit in colliders)
         {
             Rigidbody rb = hit.GetComponent<Rigidbody>();
             if (rb != null)
-                rb.AddExplosionForce(20.0f, explosionPos, 4f, 300000f);
+                rb.AddExplosionForce(2000.0f, explosionPos, 1f, 3000f);
         }
 
     }
