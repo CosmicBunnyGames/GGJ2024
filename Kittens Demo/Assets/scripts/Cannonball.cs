@@ -17,7 +17,7 @@ public class Cannonball : MonoBehaviour
         {
             Rigidbody rb = hit.GetComponent<Rigidbody>();
             if (rb != null)
-                rb.AddExplosionForce(8000.0f, explosionPos, 4.0f, 7000f);
+                rb.AddExplosionForce(14000.0f, explosionPos, 4.0f, 7000f);
         }
 
         Destroy(gameObject);
