@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class SpawnUFO : MonoBehaviour
+public class SpawnCannon : MonoBehaviour
 {
-    UnityEvent UFO_Spawn = new UnityEvent();
+    UnityEvent cannon_Spawn = new UnityEvent();
 
-    public GameObject UFO;
+    public GameObject cannon;
 
     UnityEvent m_MyEvent = new UnityEvent();
 
@@ -20,7 +20,7 @@ public class SpawnUFO : MonoBehaviour
     void Update()
     {
         // Press Q to close the Listener
-        if (Input.GetKeyDown("h"))
+        if (Input.GetKeyDown("f"))
         {
             m_MyEvent.Invoke();
             m_MyEvent.RemoveListener(MyAction);
@@ -34,8 +34,8 @@ public class SpawnUFO : MonoBehaviour
 
     // Update is called once per frame
 
-    void MyAction()
+     void MyAction()
     {
-        GameObject gameObject1 = Instantiate(UFO, transform.position + Vector3.up * 30f, transform.rotation);
+        GameObject gameObject1 = Instantiate(cannon, transform.position + Vector3.forward*3f, transform.rotation);
     }
 }

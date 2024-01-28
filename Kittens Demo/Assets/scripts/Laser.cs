@@ -16,7 +16,7 @@ public class Laser : MonoBehaviour
     {
         if (Physics.Raycast(transform.position, transform.TransformDirection(Vector3.up*-1), out hit, Mathf.Infinity))
         {
-            Debug.DrawRay(transform.position, transform.TransformDirection(Vector3.up*-1) * hit.distance, Color.yellow);
+            Debug.DrawRay(transform.position, transform.TransformDirection(Vector3.up*-1) * hit.distance, Color.red);
 
         }
         Vector3 explosionPos = hit.point;
@@ -25,7 +25,7 @@ public class Laser : MonoBehaviour
         {
             Rigidbody rb = hit.GetComponent<Rigidbody>();
             if (rb != null)
-                rb.AddExplosionForce(2000.0f, explosionPos, 2f, 3000f);
+                rb.AddExplosionForce(3000.0f, explosionPos, 2f, 3000f);
         }
 
     }
