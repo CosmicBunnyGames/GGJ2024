@@ -5,3 +5,4 @@ Kittens Demo/Logs
 
 # Ignore the libraries and packages
 Kittens Demo/Library
+*.log
