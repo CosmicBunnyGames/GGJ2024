@@ -9,6 +9,8 @@ public class Displaced : MonoBehaviour
     private float displacementLimit = 1f;
     public Total_Displacement total_Displacement;
 
+    public int scoreAdd;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -24,7 +26,7 @@ public class Displaced : MonoBehaviour
             if (Vector3.Distance(startPos, gameObject.transform.position) > displacementLimit)
             {
                 isDisplaced = true;
-                total_Displacement.Displacement_Total = total_Displacement.Displacement_Total+1;
+                total_Displacement.Displacement_Total = total_Displacement.Displacement_Total+scoreAdd;
             }
         }
     }
