@@ -10,22 +10,7 @@ public class SpawnAnvil : MonoBehaviour
 
     public GameObject anvil;
 
-    UnityEvent m_MyEvent = new UnityEvent();
-
-    void Start()
-    {
-        m_MyEvent.AddListener(MyAction);
-    }
-
-    void Update()
-    {
-        if (Input.GetKeyDown("n"))
-        {
-            m_MyEvent.Invoke();
-        }
-    }
-
-     void MyAction()
+     void Shoot()
     {
         GameObject gameObject1 = Instantiate(anvil, transform.position + Vector3.forward*10f + Vector3.up*20f, quaternion.identity);
     }
