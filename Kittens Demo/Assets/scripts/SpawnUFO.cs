@@ -13,28 +13,21 @@ public class SpawnUFO : MonoBehaviour
 
     void Start()
     {
-        //Add a listener to the new Event. Calls MyAction method when invoked
-        m_MyEvent.AddListener(MyAction);
+        
     }
 
     void Update()
     {
         // Press Q to close the Listener
-        if (Input.GetKeyDown("h"))
+        if (Input.GetKey("h"))
         {
-            m_MyEvent.Invoke();
-            m_MyEvent.RemoveListener(MyAction);
+            Spawn();
         }
 
         //Press any other key to begin the action if the Event exists
     }
 
-
-
-
-    // Update is called once per frame
-
-    void MyAction()
+    void Spawn()
     {
         GameObject gameObject1 = Instantiate(UFO, transform.position + Vector3.up * 30f, transform.rotation);
     }
