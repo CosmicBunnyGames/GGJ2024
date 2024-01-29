@@ -15,10 +15,9 @@ public class Rocket : MonoBehaviour
     void Update()
     {
         // Instantiate at cannon position and zero rotation.
-        if (Input.GetKeyDown("r"))
+        if (Input.GetKeyDown("f"))
         {
             cannonShoot.Invoke();
-            cannonShoot.RemoveListener(MyAction);
         }
 
 

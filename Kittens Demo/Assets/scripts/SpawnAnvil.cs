@@ -19,10 +19,9 @@ public class SpawnAnvil : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown("f"))
+        if (Input.GetKeyDown("n"))
         {
             m_MyEvent.Invoke();
-            m_MyEvent.RemoveListener(MyAction);
         }
     }
 

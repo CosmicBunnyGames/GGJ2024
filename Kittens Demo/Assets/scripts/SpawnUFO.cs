@@ -20,10 +20,9 @@ public class SpawnUFO : MonoBehaviour
     void Update()
     {
         // Press Q to close the Listener
-        if (Input.GetKeyDown("h"))
+        if (Input.GetKeyDown("u"))
         {
             m_MyEvent.Invoke();
-            m_MyEvent.RemoveListener(MyAction);
         }
 
         //Press any other key to begin the action if the Event exists
