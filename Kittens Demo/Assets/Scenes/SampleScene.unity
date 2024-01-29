@@ -785,12 +785,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1134559987}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0.0164, y: -0.0229, z: 0.0075}
-  m_LocalScale: {x: 0.014639146, y: 0.014639143, z: 0.014639143}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.6105366, y: -1.4776747, z: 0.25}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 734544133}
+  m_Father: {fileID: 1542190347}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1134559989
 MonoBehaviour:
@@ -805,7 +805,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rocket: {fileID: 2491829951052927246, guid: a673a8f0da161bd48b6fdfe15ac89cd8, type: 3}
-  Firing_Force: 10
+  Firing_Force: 30
 --- !u!114 &1134559990
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -891,6 +891,7 @@ Transform:
   m_Children:
   - {fileID: 1712890248}
   - {fileID: 734544133}
+  - {fileID: 1134559988}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1542190348
@@ -1232,11 +1233,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects:
-    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 8047c2e2c910740c196903092a908796,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1134559988}
+    m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 8047c2e2c910740c196903092a908796,
         type: 3}
